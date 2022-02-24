@@ -1,0 +1,48 @@
+{
+  "extends": "next/core-web-vitals",
+
+  "rules": {
+    "prefer-const": "error",
+    "react/jsx-filename-extension": 
+      [1, {"extensions": [".js", ".jsx", ".tsx", ".ts"]}],
+    "react/jsx-uses-react": "off",
+    "react/react-in-jsx-scope": "off",
+    "react/prop-types": "off",
+    "react/require-default-props": "off",
+    "linebreak-style": [
+      "error",
+      "unix"
+    ],
+    "indent": [
+      "error",
+      2
+    ],
+    "quotes": [
+      "error",
+      "single"
+    ],
+    "semi": [
+      "error",
+      "always"
+    ],
+    "no-multiple-empty-lines": [
+      "error",
+      {
+        "max": 1
+      }
+    ],
+    "newline-before-return": "error",
+    "max-len": [
+      "error",
+      {
+        "code": 80,
+        "ignorePattern": "^import\\s.+\\sfrom\\s.+;$",
+        "ignoreUrls": true
+      }
+    ],
+    "object-curly-spacing": "error",
+    "space-before-function-paren": "off",
+    "no-console": "error",
+    "eol-last": ["error", "always"]
+  }
+}

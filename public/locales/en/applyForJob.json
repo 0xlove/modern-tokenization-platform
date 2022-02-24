@@ -1,0 +1,23 @@
+{
+  "formTitle": "Apply for this job",
+  "required": "Required",
+  "title": "Title",
+  "lastName": "Last name",
+  "email": "Email",
+  "phone": "Phone",
+  "location": "Location (City)",
+  "locateMe": "Locate me",
+  "resume": "Resume/CV",
+  "coverLetter": "Cover letter",
+  "authQuestion": "Are you legally authorized to work in the USA for our Company?",
+  "sponsorshipQuestion": "Do you now, or will you in the future, require sponsorship for employment visa status (e.g., H-1B visa status, etc.) to work legally for our Company in the USA?",
+  "linkedIn": "LinkedIn Profile",
+  "howDidYouHear": "How did you hear about this job?",
+  "biggestGrowth": "What has been your biggest growth win to date?",
+  "biggestGrowthPlaceholder": "How did you come up with the idea?\nHow did you execute it?\nWhat made it successful?\nWhat could you have done differently?",
+  "whyDoYouWant": "Why do you want to work in the crypto space?",
+  "attach": "Attach",
+  "dropbox": "Dropbox",
+  "gdrive": "Google drive",
+  "paste": "Paste"
+}
